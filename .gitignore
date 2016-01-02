@@ -1,0 +1,14 @@
+.gradle
+annotations
+.idea/*
+!.idea/modules.xml
+buildScript
+kobaltBuild
+test-output
+local.properties
+classes
+libs
+.kobalt/
+./build/
+out
+.DS_Store
